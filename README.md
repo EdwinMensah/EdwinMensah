@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🔭 I’m currently working and studying at 42<br> <a href="https://42.fr" target="_blank">42.fr</a> <br>as a full Stack Developer<br>- 🌱 I’m currently learning C++<br>-⚡ Fun fact: Every time I have a problem in everyday life, I start by thinking about how to solve it by coding 
+🔭 I’m currently working and studying at 42<br> <a href="https://42.fr" target="_blank">42.fr</a> <br>as a full Stack Developer<br>- 🌱 I’m currently learning C, I started to learn with Python<br>-⚡ Fun fact: Every time I have a problem in everyday life, I start by thinking about how to solve it by coding 
 
 
 ## 🌐 Socials:
